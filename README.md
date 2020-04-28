@@ -44,5 +44,4 @@ pip install -r requirements.txt
 - Joshua Peek
 
 ### References
-If you use this code, please cite our paper:
-....
+If you use this code, please cite our paper: arXiv:2004.11981
