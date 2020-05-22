@@ -44,4 +44,5 @@ pip install -r requirements.txt
 - Joshua Peek
 
 ### References
-If you use this code, please cite our paper: arXiv:2004.11981
+If you use this code, please cite our paper:"Deep Merge: Classifying Merging Galaxies with Deep Neural Networks" A. Ciprijanovic, G. F. Snyder, B. Nord, J. E. G. Peek, 2020, Astron. Comput., 32, 100390
+
